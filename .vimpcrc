@@ -13,6 +13,7 @@ set windownumbers
 map <sc> :
 map F :1browse<CR>/
 map L :1library<CR>/
+map Y :1playlist<CR>f
 map @ :set add next<CR>a:set add end<CR>
 
 map gl :load 
