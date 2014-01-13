@@ -3,9 +3,10 @@ set groupignorethe
 set ignorecase
 set local-music-dir /home/nathan/music
 set smartcase
-"set songformat {%R - %t}|{%f}$E$R $H[$H%l$H]$H
+set songformat {%A - %t}|{%f}$E$R $H[$H%l$H]$H
 set sort library
 set sortignorecase
+set sortignorethe
 set timeremaining
 set window browse
 set windownumbers
